@@ -60,7 +60,7 @@ AUTORES = "Alejandro Felices, Héctor Ordín"
 # sustituye <tu-servicio-api> por el nombre de tu servicio, comenta la línea
 # de localhost y descomenta la de Render: es la que usará la app desplegada.
 # API_URL = "http://localhost:8000"  # para pruebas en local
-API_URL = "https://<tu-servicio-api>.onrender.com"  # <-- CAMBIA por la URL real de tu API en Render
+API_URL = "https://dam2d-opia-p3.onrender.com"  # <-- CAMBIA por la URL real de tu API en Render
 # Segundos de espera. Con dos servicios dormidos en Render (la API y esta app),
 # el arranque en frío puede tardar más de un minuto.
 TIMEOUT = 90

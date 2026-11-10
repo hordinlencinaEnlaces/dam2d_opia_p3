@@ -17,8 +17,8 @@ Autores: Alejandro Felices, Héctor Ordín
 
 | Servicio | Qué es | URL |
 |----------|--------|-----|
-| API | FastAPI con el modelo (`app.py`) | [https://<tu-servicio-api>.onrender.com](https://dam2d-opia-p3.onrender.com/) |
-| Interfaz | Streamlit (`streamlit_app.py`), que llama a la API | [https://<tu-servicio-streamlit>.onrender.com](https://dam2d-opia-p3-streamlit.onrender.com/) |
+| API | FastAPI con el modelo (`app.py`) | [https://dam2d-opia-p3.onrender.com/] |
+| Interfaz | Streamlit (`streamlit_app.py`), que llama a la API | [https://dam2d-opia-p3-streamlit.onrender.com/] |
 
 ## Cómo ejecutarla en local
 
@@ -49,7 +49,7 @@ primera petición puede tardar más de un minuto.
 
 ## Documentación de la API
 
-URL base: <https://tu-servicio-api.onrender.com>
+URL base: [https://dam2d-opia-p3-streamlit.onrender.com/]
 
 ### `POST /predict`
 
